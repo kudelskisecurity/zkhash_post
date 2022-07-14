@@ -1,7 +1,7 @@
 # Implementation MIMC-p and Griffin permutations
 
 The code and the unit tests located in this repository are part of the
-blog post published at https://research.kudelskisecurity.com/
+blog post published at https://research.kudelskisecurity.com/2022/07/07/implementing-zk-focused-hash-schemes/
 
 # License
 
